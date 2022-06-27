@@ -56,6 +56,14 @@ body {
     font-family: 'Jost', sans-serif;
 }
 
+body.malayalam {
+    font-family: 'Anek Malayalam', sans-serif;
+}
+
+body.tamil {
+    font-family: 'Anek Tamil', sans-serif;
+}
+
 a {
     color: #3A3064;
     cursor: pointer;
@@ -2191,4 +2199,11 @@ div.gallery2 img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+/*  link top menu color change */
+
+.logo-outer .footer-menu li a {
+    color: #57CC61;
 }
