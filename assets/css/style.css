@@ -858,7 +858,7 @@ button:focus {
 }
 
 .fact-item {
-    padding: 0 20px;
+    padding: 0px;
     margin-bottom: 30px;
 }
 
@@ -2208,17 +2208,4 @@ div.gallery2 img {
 
 .logo-outer .footer-menu li a {
     color: #57CC61;
-}
-
-
-/* border left for two paragraph */
-
-.h2-border-left {
-    border-left: 2px solid #EE3163;
-    padding-left: 20px;
-}
-
-.wrap-border {
-    border-left: 2px solid #EE3163;
-    padding-left: 20px;
 }
