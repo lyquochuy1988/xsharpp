@@ -707,10 +707,12 @@ button:focus {
 
 .service-content h5 {
     margin-bottom: 25px;
+    word-wrap: break-word;
 }
 
 .service-content p {
     margin-bottom: 0;
+    word-wrap: break-word;
 }
 
 .service-item.service-active {
