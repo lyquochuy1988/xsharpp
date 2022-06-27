@@ -2209,3 +2209,16 @@ div.gallery2 img {
 .logo-outer .footer-menu li a {
     color: #57CC61;
 }
+
+
+/* border left for two paragraph */
+
+.h2-border-left {
+    border-left: 2px solid #EE3163;
+    padding-left: 20px;
+}
+
+.wrap-border {
+    border-left: 2px solid #EE3163;
+    padding-left: 20px;
+}
